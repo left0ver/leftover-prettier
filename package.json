@@ -1,13 +1,16 @@
 {
   "name": "leftover-prettier",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "我的prettier配置",
   "main": "index.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/left0ver/leftover-prettier.git"
   },
-  "keywords": ["prettier-config","prettier"],
+  "keywords": [
+    "prettier-config",
+    "prettier"
+  ],
   "author": "leftover",
   "license": "MIT",
   "bugs": {
