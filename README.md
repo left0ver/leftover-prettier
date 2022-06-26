@@ -1,7 +1,4 @@
-# leftover-prettier
 我的prettier配置
-
-
 # Usage
 
 ```json
@@ -23,3 +20,22 @@ or
   "prettier":"leftover-prettier"
 }
 ```
+# 配置项
+
+```json
+{
+  "printWidth": 80,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "endOfLine": "lf",
+  "semi":false,
+  "bracketSpacing":true,
+  "bracketSameLine":true,
+  "jsxBracketSameLine":true,
+  "arrowParens":"avoid",
+  "embeddedLanguageFormatting":"off"
+}
+
+```
+
+
