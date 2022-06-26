@@ -13,3 +13,13 @@
 }
 
 ```
+
+or
+
+```json
+// .prettierrc.json
+
+{
+  "prettier":"leftover-prettier"
+}
+```
