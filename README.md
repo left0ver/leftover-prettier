@@ -1,4 +1,15 @@
 我的prettier配置
+
+# Install
+
+```shell
+npm i leftover-prettier -D
+
+// or 
+
+yarn add leftover-prettier -D
+```
+
 # Usage
 
 ```json
