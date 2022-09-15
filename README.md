@@ -24,12 +24,11 @@ yarn add leftover-prettier -D
 
 or
 
-```json
-// .prettierrc.json
-
-{
-  "prettier":"leftover-prettier"
-}
+```javascript
+// .prettierrc.js
+module.exports = {
+  ...require("leftover-prettier"),
+};
 ```
 # 配置项
 
