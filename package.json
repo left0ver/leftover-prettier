@@ -1,6 +1,6 @@
 {
   "name": "leftover-prettier",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "我的prettier配置",
   "main": "index.json",
   "repository": {
